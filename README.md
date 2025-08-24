@@ -3,6 +3,5 @@ Repo containing AI security labs (prompt injection, malicious vector embedding e
 
 
 # Prerequisites
-Ollama installed locally \n
-Misteral model running in ollama
+Ollama installed locally and Misteral model running in ollama
 (Project-wise dependency can be installed from requirement.txt)
